@@ -21,7 +21,7 @@ Full-stack web developer specializing in Pokemon-related tools and applications.
 <div align="center">
 
 [![PKHeX-ALL-IN-ONE](https://github-readme-stats.vercel.app/api/pin/?username=bdawg1989&repo=PKHeX-ALL-IN-ONE&theme=chartreuse-dark)](https://github.com/bdawg1989/PKHeX-ALL-IN-ONE)
-[![SysBot](https://github-readme-stats.vercel.app/api/pin/?username=bdawg1989&repo=SysBot&theme=chartreuse-dark)](https://github.com/bdawg1989/SysBot)
+[![SysBot](https://github-readme-stats.vercel.app/api/pin/?username=bdawg1989&repo=PokeBot&theme=chartreuse-dark)](https://github.com/bdawg1989/PokeBot)
 [![SVRaidBot](https://github-readme-stats.vercel.app/api/pin/?username=bdawg1989&repo=SVRaidBot&theme=chartreuse-dark)](https://github.com/bdawg1989/SVRaidBot)
 
 </div>
