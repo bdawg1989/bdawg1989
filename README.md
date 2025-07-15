@@ -1,14 +1,14 @@
-# 🎮 Pokemon Developer | bdawg1989
+# 🎮 Pokemon Developer | hexbyt3
 
 <div align="center">
   
   ## 📊 GitHub Stats
   
-  ![bdawg1989's Stats](https://github-readme-stats.vercel.app/api?username=bdawg1989&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true)
+  ![hexbyt3's Stats](https://github-readme-stats.vercel.app/api?username=hexbyt3&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true)
   
-  ![bdawg1989's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bdawg1989&theme=chartreuse-dark&hide_border=false)
+  ![hexbyt3's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hexbyt3&theme=chartreuse-dark&hide_border=false)
   
-  ![bdawg1989's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bdawg1989&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact)
+  ![hexbyt3's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hexbyt3&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact)
   
 </div>
 
@@ -20,9 +20,9 @@ Full-stack web developer specializing in Pokemon-related tools and applications.
 
 <div align="center">
 
-[![PKHeX-ALL-IN-ONE](https://github-readme-stats.vercel.app/api/pin/?username=bdawg1989&repo=PKHeX-ALL-IN-ONE&theme=chartreuse-dark)](https://github.com/bdawg1989/PKHeX-ALL-IN-ONE)
-[![SysBot](https://github-readme-stats.vercel.app/api/pin/?username=bdawg1989&repo=PokeBot&theme=chartreuse-dark)](https://github.com/bdawg1989/PokeBot)
-[![SVRaidBot](https://github-readme-stats.vercel.app/api/pin/?username=bdawg1989&repo=SVRaidBot&theme=chartreuse-dark)](https://github.com/bdawg1989/SVRaidBot)
+[![PKHeX-ALL-IN-ONE](https://github-readme-stats.vercel.app/api/pin/?username=hexbyt3&repo=PKHeX-ALL-IN-ONE&theme=chartreuse-dark)](https://github.com/hexbyt3/PKHeX-ALL-IN-ONE)
+[![SysBot](https://github-readme-stats.vercel.app/api/pin/?username=hexbyt3&repo=PokeBot&theme=chartreuse-dark)](https://github.com/hexbyt3/PokeBot)
+[![SVRaidBot](https://github-readme-stats.vercel.app/api/pin/?username=hexbyt3&repo=SVRaidBot&theme=chartreuse-dark)](https://github.com/hexbyt3/SVRaidBot)
 
 </div>
 
@@ -43,11 +43,11 @@ Full-stack web developer specializing in Pokemon-related tools and applications.
 
 ## 🚀 Project Highlights
 
-- **[PKHeX-ALL-IN-ONE](https://github.com/bdawg1989/PKHeX-ALL-IN-ONE)**: Comprehensive collection of PKHeX plugins and latest development updates in one package
+- **[PKHeX-ALL-IN-ONE](https://github.com/hexbyt3/PKHeX-ALL-IN-ONE)**: Comprehensive collection of PKHeX plugins and latest development updates in one package
   
-- **[SysBot](https://github.com/bdawg1989/SysBot)**: C# WinForms application for automating Pokemon game interactions
+- **[SysBot](https://github.com/hexbyt3/SysBot)**: C# WinForms application for automating Pokemon game interactions
 
-- **[SVRaidBot](https://github.com/bdawg1989/SVRaidBot)**: C# bot specifically designed for Pokemon Scarlet and Violet raid automation
+- **[SVRaidBot](https://github.com/hexbyt3/SVRaidBot)**: C# bot specifically designed for Pokemon Scarlet and Violet raid automation
 
 ## 🌐 Online Platform
 
@@ -66,5 +66,5 @@ Full-stack web developer specializing in Pokemon-related tools and applications.
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bdawg1989&color=brightgreen&style=for-the-badge" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=hexbyt3&color=brightgreen&style=for-the-badge" alt="Profile Views">
 </div>
